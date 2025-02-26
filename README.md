@@ -1,7 +1,13 @@
-# 7-Days-Of-Code
--First-Day-
+<h1 align="center">#7_Days_Of_Code_(1/7)</h1>
 
-Comenzo de la jornada de #7DaysOfCode ;)
+*Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
+
+Comienzo de la jornada de #7DaysOfCode ;), en este primer desafío se corrigen unas operaciones en donde el número es el mismo, mas sin embargo, no son del mismo tipo;
+Se busca lograr realiza rla operación mediante el uso de Java Scrip que la operación y/o comparación de los números se realicen de la forma correcta.
+
+---
+
+## Marco Teórico:
 
 Existe una situación muy común para quienes usan Javascript: problemas con los tipos de 
 variables al comparar los valores de dos variables entre sí.
@@ -30,6 +36,15 @@ eligiendo la opción “Inspeccionar” y la pestaña “Consola”. En esa pest
 con copiar y pegar cada una de las líneas anteriores para confirmar que todas 
 realmente retornan true).
 
+---
 
-Por lo tanto, tu tarea de hoy es reescribir el código a continuación para que imprima la información
-de manera correcta, que tenga sentido y sin errores:
+## Requisitos:
+
+Este proyecto usa únicamente **JavaScript**.  
+Se puede probar directamente en tu navegador.
+
+---
+
+## Tecnologías Usadas 💻
+
+- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)**.
