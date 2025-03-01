@@ -2,7 +2,7 @@
 
 *Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
 
-Comienzo de la jornada de #7DaysOfCode ;), en este primer desafío se corrigen unas operaciones en donde el número es el mismo, mas sin embargo, no son del mismo tipo;
+Comienzo de la jornada de #7DaysOfCode ;), en este primer desafío se corrigen unas operaciones en donde el número es el mismo, más sin embargo, no son del mismo tipo;
 Se busca lograr realiza rla operación mediante el uso de Java Scrip que la operación y/o comparación de los números se realicen de la forma correcta.
 
 ---
